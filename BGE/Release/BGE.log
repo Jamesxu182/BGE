@@ -1,0 +1,264 @@
+﻿  AttackingState.cpp
+c:\users\shzhao\desktop\bge-master\dependencies\bullet3\src\LinearMath/btIDebugDraw.h(169): warning C4305: 'argument': truncation from 'double' to 'const btScalar'
+c:\users\shzhao\desktop\bge-master\dependencies\bullet3\src\LinearMath/btIDebugDraw.h(170): warning C4305: 'argument': truncation from 'double' to 'const btScalar'
+c:\users\shzhao\desktop\bge-master\dependencies\bullet3\src\LinearMath/btIDebugDraw.h(171): warning C4305: 'argument': truncation from 'double' to 'const btScalar'
+  Buddha.cpp
+c:\users\shzhao\desktop\bge-master\dependencies\bullet3\src\LinearMath/btIDebugDraw.h(169): warning C4305: 'argument': truncation from 'double' to 'const btScalar'
+c:\users\shzhao\desktop\bge-master\dependencies\bullet3\src\LinearMath/btIDebugDraw.h(170): warning C4305: 'argument': truncation from 'double' to 'const btScalar'
+c:\users\shzhao\desktop\bge-master\dependencies\bullet3\src\LinearMath/btIDebugDraw.h(171): warning C4305: 'argument': truncation from 'double' to 'const btScalar'
+Buddha.cpp(81): warning C4018: '<': signed/unsigned mismatch
+  Capsule.cpp
+c:\users\shzhao\desktop\bge-master\dependencies\bullet3\src\LinearMath/btIDebugDraw.h(169): warning C4305: 'argument': truncation from 'double' to 'const btScalar'
+c:\users\shzhao\desktop\bge-master\dependencies\bullet3\src\LinearMath/btIDebugDraw.h(170): warning C4305: 'argument': truncation from 'double' to 'const btScalar'
+c:\users\shzhao\desktop\bge-master\dependencies\bullet3\src\LinearMath/btIDebugDraw.h(171): warning C4305: 'argument': truncation from 'double' to 'const btScalar'
+  FlockingScenario.cpp
+c:\users\shzhao\desktop\bge-master\dependencies\bullet3\src\LinearMath/btIDebugDraw.h(169): warning C4305: 'argument': truncation from 'double' to 'const btScalar'
+c:\users\shzhao\desktop\bge-master\dependencies\bullet3\src\LinearMath/btIDebugDraw.h(170): warning C4305: 'argument': truncation from 'double' to 'const btScalar'
+c:\users\shzhao\desktop\bge-master\dependencies\bullet3\src\LinearMath/btIDebugDraw.h(171): warning C4305: 'argument': truncation from 'double' to 'const btScalar'
+c:\users\shzhao\desktop\bge-master\bge\Utils.h(17): fatal error C1083: Cannot open include file: 'Leap.h': No such file or directory
+  FountainEffect.cpp
+c:\users\shzhao\desktop\bge-master\dependencies\bullet3\src\LinearMath/btIDebugDraw.h(169): warning C4305: 'argument': truncation from 'double' to 'const btScalar'
+c:\users\shzhao\desktop\bge-master\dependencies\bullet3\src\LinearMath/btIDebugDraw.h(170): warning C4305: 'argument': truncation from 'double' to 'const btScalar'
+c:\users\shzhao\desktop\bge-master\dependencies\bullet3\src\LinearMath/btIDebugDraw.h(171): warning C4305: 'argument': truncation from 'double' to 'const btScalar'
+c:\users\shzhao\desktop\bge-master\bge\Utils.h(17): fatal error C1083: Cannot open include file: 'Leap.h': No such file or directory
+  IdleState.cpp
+  KinectAudioStream.cpp
+  Lab3.cpp
+c:\users\shzhao\desktop\bge-master\dependencies\bullet3\src\LinearMath/btIDebugDraw.h(169): warning C4305: 'argument': truncation from 'double' to 'const btScalar'
+c:\users\shzhao\desktop\bge-master\dependencies\bullet3\src\LinearMath/btIDebugDraw.h(170): warning C4305: 'argument': truncation from 'double' to 'const btScalar'
+c:\users\shzhao\desktop\bge-master\dependencies\bullet3\src\LinearMath/btIDebugDraw.h(171): warning C4305: 'argument': truncation from 'double' to 'const btScalar'
+  LazerBeam.cpp
+  LeapHands.cpp
+c:\users\shzhao\desktop\bge-master\bge\LeapHands.h(3): fatal error C1083: Cannot open include file: 'Leap.h': No such file or directory
+  ObstacleAvoidanceScenario.cpp
+c:\users\shzhao\desktop\bge-master\dependencies\bullet3\src\LinearMath/btIDebugDraw.h(169): warning C4305: 'argument': truncation from 'double' to 'const btScalar'
+c:\users\shzhao\desktop\bge-master\dependencies\bullet3\src\LinearMath/btIDebugDraw.h(170): warning C4305: 'argument': truncation from 'double' to 'const btScalar'
+c:\users\shzhao\desktop\bge-master\dependencies\bullet3\src\LinearMath/btIDebugDraw.h(171): warning C4305: 'argument': truncation from 'double' to 'const btScalar'
+ObstacleAvoidanceScenario.cpp(62): warning C4018: '<': signed/unsigned mismatch
+  Particle.cpp
+  ParticleEffect.cpp
+c:\users\shzhao\desktop\bge-master\dependencies\bullet3\src\LinearMath/btIDebugDraw.h(169): warning C4305: 'argument': truncation from 'double' to 'const btScalar'
+c:\users\shzhao\desktop\bge-master\dependencies\bullet3\src\LinearMath/btIDebugDraw.h(170): warning C4305: 'argument': truncation from 'double' to 'const btScalar'
+c:\users\shzhao\desktop\bge-master\dependencies\bullet3\src\LinearMath/btIDebugDraw.h(171): warning C4305: 'argument': truncation from 'double' to 'const btScalar'
+  PathFollowingScenario.cpp
+c:\users\shzhao\desktop\bge-master\dependencies\bullet3\src\LinearMath/btIDebugDraw.h(169): warning C4305: 'argument': truncation from 'double' to 'const btScalar'
+c:\users\shzhao\desktop\bge-master\dependencies\bullet3\src\LinearMath/btIDebugDraw.h(170): warning C4305: 'argument': truncation from 'double' to 'const btScalar'
+c:\users\shzhao\desktop\bge-master\dependencies\bullet3\src\LinearMath/btIDebugDraw.h(171): warning C4305: 'argument': truncation from 'double' to 'const btScalar'
+  Person2.cpp
+c:\users\shzhao\desktop\bge-master\dependencies\bullet3\src\LinearMath/btIDebugDraw.h(169): warning C4305: 'argument': truncation from 'double' to 'const btScalar'
+c:\users\shzhao\desktop\bge-master\dependencies\bullet3\src\LinearMath/btIDebugDraw.h(170): warning C4305: 'argument': truncation from 'double' to 'const btScalar'
+c:\users\shzhao\desktop\bge-master\dependencies\bullet3\src\LinearMath/btIDebugDraw.h(171): warning C4305: 'argument': truncation from 'double' to 'const btScalar'
+c:\users\shzhao\desktop\bge-master\bge\LeapHands.h(3): fatal error C1083: Cannot open include file: 'Leap.h': No such file or directory
+  PhysicsDrawer.cpp
+c:\users\shzhao\desktop\bge-master\dependencies\bullet3\src\LinearMath/btIDebugDraw.h(169): warning C4305: 'argument': truncation from 'double' to 'const btScalar'
+c:\users\shzhao\desktop\bge-master\dependencies\bullet3\src\LinearMath/btIDebugDraw.h(170): warning C4305: 'argument': truncation from 'double' to 'const btScalar'
+c:\users\shzhao\desktop\bge-master\dependencies\bullet3\src\LinearMath/btIDebugDraw.h(171): warning C4305: 'argument': truncation from 'double' to 'const btScalar'
+  Route.cpp
+Route.cpp(23): warning C4018: '<': signed/unsigned mismatch
+  Scenario.cpp
+c:\users\shzhao\desktop\bge-master\dependencies\bullet3\src\LinearMath/btIDebugDraw.h(169): warning C4305: 'argument': truncation from 'double' to 'const btScalar'
+c:\users\shzhao\desktop\bge-master\dependencies\bullet3\src\LinearMath/btIDebugDraw.h(170): warning C4305: 'argument': truncation from 'double' to 'const btScalar'
+c:\users\shzhao\desktop\bge-master\dependencies\bullet3\src\LinearMath/btIDebugDraw.h(171): warning C4305: 'argument': truncation from 'double' to 'const btScalar'
+c:\users\shzhao\desktop\bge-master\bge\Utils.h(17): fatal error C1083: Cannot open include file: 'Leap.h': No such file or directory
+  SceneGraphGame.cpp
+c:\users\shzhao\desktop\bge-master\dependencies\bullet3\src\LinearMath/btIDebugDraw.h(169): warning C4305: 'argument': truncation from 'double' to 'const btScalar'
+c:\users\shzhao\desktop\bge-master\dependencies\bullet3\src\LinearMath/btIDebugDraw.h(170): warning C4305: 'argument': truncation from 'double' to 'const btScalar'
+c:\users\shzhao\desktop\bge-master\dependencies\bullet3\src\LinearMath/btIDebugDraw.h(171): warning C4305: 'argument': truncation from 'double' to 'const btScalar'
+SceneGraphGame.cpp(174): warning C4018: '<': signed/unsigned mismatch
+  SkeletonMapper.cpp
+c:\users\shzhao\desktop\bge-master\dependencies\bullet3\src\LinearMath/btIDebugDraw.h(169): warning C4305: 'argument': truncation from 'double' to 'const btScalar'
+c:\users\shzhao\desktop\bge-master\dependencies\bullet3\src\LinearMath/btIDebugDraw.h(170): warning C4305: 'argument': truncation from 'double' to 'const btScalar'
+c:\users\shzhao\desktop\bge-master\dependencies\bullet3\src\LinearMath/btIDebugDraw.h(171): warning C4305: 'argument': truncation from 'double' to 'const btScalar'
+  Compiling...
+  SnowEffect.cpp
+c:\users\shzhao\desktop\bge-master\dependencies\bullet3\src\LinearMath/btIDebugDraw.h(169): warning C4305: 'argument': truncation from 'double' to 'const btScalar'
+c:\users\shzhao\desktop\bge-master\dependencies\bullet3\src\LinearMath/btIDebugDraw.h(170): warning C4305: 'argument': truncation from 'double' to 'const btScalar'
+c:\users\shzhao\desktop\bge-master\dependencies\bullet3\src\LinearMath/btIDebugDraw.h(171): warning C4305: 'argument': truncation from 'double' to 'const btScalar'
+c:\users\shzhao\desktop\bge-master\bge\Utils.h(17): fatal error C1083: Cannot open include file: 'Leap.h': No such file or directory
+  State.cpp
+c:\users\shzhao\desktop\bge-master\dependencies\bullet3\src\LinearMath/btIDebugDraw.h(169): warning C4305: 'argument': truncation from 'double' to 'const btScalar'
+c:\users\shzhao\desktop\bge-master\dependencies\bullet3\src\LinearMath/btIDebugDraw.h(170): warning C4305: 'argument': truncation from 'double' to 'const btScalar'
+c:\users\shzhao\desktop\bge-master\dependencies\bullet3\src\LinearMath/btIDebugDraw.h(171): warning C4305: 'argument': truncation from 'double' to 'const btScalar'
+  SteeringGame.cpp
+c:\users\shzhao\desktop\bge-master\dependencies\bullet3\src\LinearMath/btIDebugDraw.h(169): warning C4305: 'argument': truncation from 'double' to 'const btScalar'
+c:\users\shzhao\desktop\bge-master\dependencies\bullet3\src\LinearMath/btIDebugDraw.h(170): warning C4305: 'argument': truncation from 'double' to 'const btScalar'
+c:\users\shzhao\desktop\bge-master\dependencies\bullet3\src\LinearMath/btIDebugDraw.h(171): warning C4305: 'argument': truncation from 'double' to 'const btScalar'
+SteeringGame.cpp(73): warning C4018: '<': signed/unsigned mismatch
+  Transform.cpp
+c:\users\shzhao\desktop\bge-master\dependencies\bullet3\src\LinearMath/btIDebugDraw.h(169): warning C4305: 'argument': truncation from 'double' to 'const btScalar'
+c:\users\shzhao\desktop\bge-master\dependencies\bullet3\src\LinearMath/btIDebugDraw.h(170): warning C4305: 'argument': truncation from 'double' to 'const btScalar'
+c:\users\shzhao\desktop\bge-master\dependencies\bullet3\src\LinearMath/btIDebugDraw.h(171): warning C4305: 'argument': truncation from 'double' to 'const btScalar'
+c:\users\shzhao\desktop\bge-master\bge\Utils.h(17): fatal error C1083: Cannot open include file: 'Leap.h': No such file or directory
+  Utils.cpp
+Utils.cpp : warning C4819: The file contains a character that cannot be represented in the current code page (936). Save the file in Unicode format to prevent data loss
+c:\users\shzhao\desktop\bge-master\dependencies\bullet3\src\LinearMath/btIDebugDraw.h(169): warning C4305: 'argument': truncation from 'double' to 'const btScalar'
+c:\users\shzhao\desktop\bge-master\dependencies\bullet3\src\LinearMath/btIDebugDraw.h(170): warning C4305: 'argument': truncation from 'double' to 'const btScalar'
+c:\users\shzhao\desktop\bge-master\dependencies\bullet3\src\LinearMath/btIDebugDraw.h(171): warning C4305: 'argument': truncation from 'double' to 'const btScalar'
+c:\users\shzhao\desktop\bge-master\bge\Utils.h(17): fatal error C1083: Cannot open include file: 'Leap.h': No such file or directory
+  Exception.cpp
+  Box.cpp
+c:\users\shzhao\desktop\bge-master\dependencies\bullet3\src\LinearMath/btIDebugDraw.h(169): warning C4305: 'argument': truncation from 'double' to 'const btScalar'
+c:\users\shzhao\desktop\bge-master\dependencies\bullet3\src\LinearMath/btIDebugDraw.h(170): warning C4305: 'argument': truncation from 'double' to 'const btScalar'
+c:\users\shzhao\desktop\bge-master\dependencies\bullet3\src\LinearMath/btIDebugDraw.h(171): warning C4305: 'argument': truncation from 'double' to 'const btScalar'
+  Camera.cpp
+c:\users\shzhao\desktop\bge-master\dependencies\bullet3\src\LinearMath/btIDebugDraw.h(169): warning C4305: 'argument': truncation from 'double' to 'const btScalar'
+c:\users\shzhao\desktop\bge-master\dependencies\bullet3\src\LinearMath/btIDebugDraw.h(170): warning C4305: 'argument': truncation from 'double' to 'const btScalar'
+c:\users\shzhao\desktop\bge-master\dependencies\bullet3\src\LinearMath/btIDebugDraw.h(171): warning C4305: 'argument': truncation from 'double' to 'const btScalar'
+Camera.cpp(29): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+  Content.cpp
+c:\users\shzhao\desktop\bge-master\dependencies\bullet3\src\LinearMath/btIDebugDraw.h(169): warning C4305: 'argument': truncation from 'double' to 'const btScalar'
+c:\users\shzhao\desktop\bge-master\dependencies\bullet3\src\LinearMath/btIDebugDraw.h(170): warning C4305: 'argument': truncation from 'double' to 'const btScalar'
+c:\users\shzhao\desktop\bge-master\dependencies\bullet3\src\LinearMath/btIDebugDraw.h(171): warning C4305: 'argument': truncation from 'double' to 'const btScalar'
+c:\users\shzhao\desktop\bge-master\bge\Utils.h(17): fatal error C1083: Cannot open include file: 'Leap.h': No such file or directory
+  CubeTest.cpp
+c:\users\shzhao\desktop\bge-master\dependencies\bullet3\src\LinearMath/btIDebugDraw.h(169): warning C4305: 'argument': truncation from 'double' to 'const btScalar'
+c:\users\shzhao\desktop\bge-master\dependencies\bullet3\src\LinearMath/btIDebugDraw.h(170): warning C4305: 'argument': truncation from 'double' to 'const btScalar'
+c:\users\shzhao\desktop\bge-master\dependencies\bullet3\src\LinearMath/btIDebugDraw.h(171): warning C4305: 'argument': truncation from 'double' to 'const btScalar'
+  Cylinder.cpp
+c:\users\shzhao\desktop\bge-master\dependencies\bullet3\src\LinearMath/btIDebugDraw.h(169): warning C4305: 'argument': truncation from 'double' to 'const btScalar'
+c:\users\shzhao\desktop\bge-master\dependencies\bullet3\src\LinearMath/btIDebugDraw.h(170): warning C4305: 'argument': truncation from 'double' to 'const btScalar'
+c:\users\shzhao\desktop\bge-master\dependencies\bullet3\src\LinearMath/btIDebugDraw.h(171): warning C4305: 'argument': truncation from 'double' to 'const btScalar'
+  FPSController.cpp
+c:\users\shzhao\desktop\bge-master\dependencies\bullet3\src\LinearMath/btIDebugDraw.h(169): warning C4305: 'argument': truncation from 'double' to 'const btScalar'
+c:\users\shzhao\desktop\bge-master\dependencies\bullet3\src\LinearMath/btIDebugDraw.h(170): warning C4305: 'argument': truncation from 'double' to 'const btScalar'
+c:\users\shzhao\desktop\bge-master\dependencies\bullet3\src\LinearMath/btIDebugDraw.h(171): warning C4305: 'argument': truncation from 'double' to 'const btScalar'
+FPSController.cpp(55): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+FPSController.cpp(56): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+FPSController.cpp(58): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+FPSController.cpp(59): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+  Game.cpp
+c:\users\shzhao\desktop\bge-master\dependencies\bullet3\src\LinearMath/btIDebugDraw.h(169): warning C4305: 'argument': truncation from 'double' to 'const btScalar'
+c:\users\shzhao\desktop\bge-master\dependencies\bullet3\src\LinearMath/btIDebugDraw.h(170): warning C4305: 'argument': truncation from 'double' to 'const btScalar'
+c:\users\shzhao\desktop\bge-master\dependencies\bullet3\src\LinearMath/btIDebugDraw.h(171): warning C4305: 'argument': truncation from 'double' to 'const btScalar'
+c:\users\shzhao\desktop\bge-master\bge\Utils.h(17): fatal error C1083: Cannot open include file: 'Leap.h': No such file or directory
+  GameComponent.cpp
+c:\users\shzhao\desktop\bge-master\dependencies\bullet3\src\LinearMath/btIDebugDraw.h(169): warning C4305: 'argument': truncation from 'double' to 'const btScalar'
+c:\users\shzhao\desktop\bge-master\dependencies\bullet3\src\LinearMath/btIDebugDraw.h(170): warning C4305: 'argument': truncation from 'double' to 'const btScalar'
+c:\users\shzhao\desktop\bge-master\dependencies\bullet3\src\LinearMath/btIDebugDraw.h(171): warning C4305: 'argument': truncation from 'double' to 'const btScalar'
+  Ground.cpp
+c:\users\shzhao\desktop\bge-master\dependencies\bullet3\src\LinearMath/btIDebugDraw.h(169): warning C4305: 'argument': truncation from 'double' to 'const btScalar'
+c:\users\shzhao\desktop\bge-master\dependencies\bullet3\src\LinearMath/btIDebugDraw.h(170): warning C4305: 'argument': truncation from 'double' to 'const btScalar'
+c:\users\shzhao\desktop\bge-master\dependencies\bullet3\src\LinearMath/btIDebugDraw.h(171): warning C4305: 'argument': truncation from 'double' to 'const btScalar'
+  KinematicMotionState.cpp
+c:\users\shzhao\desktop\bge-master\dependencies\bullet3\src\LinearMath/btIDebugDraw.h(169): warning C4305: 'argument': truncation from 'double' to 'const btScalar'
+c:\users\shzhao\desktop\bge-master\dependencies\bullet3\src\LinearMath/btIDebugDraw.h(170): warning C4305: 'argument': truncation from 'double' to 'const btScalar'
+c:\users\shzhao\desktop\bge-master\dependencies\bullet3\src\LinearMath/btIDebugDraw.h(171): warning C4305: 'argument': truncation from 'double' to 'const btScalar'
+c:\users\shzhao\desktop\bge-master\bge\Utils.h(17): fatal error C1083: Cannot open include file: 'Leap.h': No such file or directory
+  LineDrawer.cpp
+c:\users\shzhao\desktop\bge-master\dependencies\bullet3\src\LinearMath/btIDebugDraw.h(169): warning C4305: 'argument': truncation from 'double' to 'const btScalar'
+c:\users\shzhao\desktop\bge-master\dependencies\bullet3\src\LinearMath/btIDebugDraw.h(170): warning C4305: 'argument': truncation from 'double' to 'const btScalar'
+c:\users\shzhao\desktop\bge-master\dependencies\bullet3\src\LinearMath/btIDebugDraw.h(171): warning C4305: 'argument': truncation from 'double' to 'const btScalar'
+c:\users\shzhao\desktop\bge-master\bge\Utils.h(17): fatal error C1083: Cannot open include file: 'Leap.h': No such file or directory
+  main.cpp
+c:\users\shzhao\desktop\bge-master\dependencies\bullet3\src\LinearMath/btIDebugDraw.h(169): warning C4305: 'argument': truncation from 'double' to 'const btScalar'
+c:\users\shzhao\desktop\bge-master\dependencies\bullet3\src\LinearMath/btIDebugDraw.h(170): warning C4305: 'argument': truncation from 'double' to 'const btScalar'
+c:\users\shzhao\desktop\bge-master\dependencies\bullet3\src\LinearMath/btIDebugDraw.h(171): warning C4305: 'argument': truncation from 'double' to 'const btScalar'
+c:\users\shzhao\desktop\bge-master\bge\Utils.h(17): fatal error C1083: Cannot open include file: 'Leap.h': No such file or directory
+  Model.cpp
+c:\users\shzhao\desktop\bge-master\dependencies\bullet3\src\LinearMath/btIDebugDraw.h(169): warning C4305: 'argument': truncation from 'double' to 'const btScalar'
+c:\users\shzhao\desktop\bge-master\dependencies\bullet3\src\LinearMath/btIDebugDraw.h(170): warning C4305: 'argument': truncation from 'double' to 'const btScalar'
+c:\users\shzhao\desktop\bge-master\dependencies\bullet3\src\LinearMath/btIDebugDraw.h(171): warning C4305: 'argument': truncation from 'double' to 'const btScalar'
+  ModelTest.cpp
+c:\users\shzhao\desktop\bge-master\dependencies\bullet3\src\LinearMath/btIDebugDraw.h(169): warning C4305: 'argument': truncation from 'double' to 'const btScalar'
+c:\users\shzhao\desktop\bge-master\dependencies\bullet3\src\LinearMath/btIDebugDraw.h(170): warning C4305: 'argument': truncation from 'double' to 'const btScalar'
+c:\users\shzhao\desktop\bge-master\dependencies\bullet3\src\LinearMath/btIDebugDraw.h(171): warning C4305: 'argument': truncation from 'double' to 'const btScalar'
+C:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\include\memory(901): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  C:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\include\memory(971): note: see reference to function template instantiation 'std::_Ref_count_obj<_Ty>::_Ref_count_obj<int,int,int>(int &&,int &&,int &&)' being compiled
+          with
+          [
+              _Ty=BGE::Box
+          ]
+  C:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\include\memory(971): note: see reference to function template instantiation 'std::_Ref_count_obj<_Ty>::_Ref_count_obj<int,int,int>(int &&,int &&,int &&)' being compiled
+          with
+          [
+              _Ty=BGE::Box
+          ]
+  ModelTest.cpp(28): note: see reference to function template instantiation 'std::shared_ptr<BGE::Box> std::make_shared<BGE::Box,int,int,int>(int &&,int &&,int &&)' being compiled
+  C:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\include\memory(1008): note: see reference to class template instantiation 'std::_Ptr_base<_Ty>' being compiled
+          with
+          [
+              _Ty=BGE::GameComponent
+          ]
+  C:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\include\memory(1161): note: see reference to class template instantiation 'std::weak_ptr<_Ty>' being compiled
+          with
+          [
+              _Ty=BGE::GameComponent
+          ]
+  c:\users\shzhao\desktop\bge-master\bge\GameComponent.h(33): note: see reference to class template instantiation 'std::enable_shared_from_this<BGE::GameComponent>' being compiled
+  Compiling...
+  MotionState.cpp
+c:\users\shzhao\desktop\bge-master\dependencies\bullet3\src\LinearMath/btIDebugDraw.h(169): warning C4305: 'argument': truncation from 'double' to 'const btScalar'
+c:\users\shzhao\desktop\bge-master\dependencies\bullet3\src\LinearMath/btIDebugDraw.h(170): warning C4305: 'argument': truncation from 'double' to 'const btScalar'
+c:\users\shzhao\desktop\bge-master\dependencies\bullet3\src\LinearMath/btIDebugDraw.h(171): warning C4305: 'argument': truncation from 'double' to 'const btScalar'
+  Params.cpp
+c:\users\shzhao\desktop\bge-master\dependencies\bullet3\src\LinearMath/btIDebugDraw.h(169): warning C4305: 'argument': truncation from 'double' to 'const btScalar'
+c:\users\shzhao\desktop\bge-master\dependencies\bullet3\src\LinearMath/btIDebugDraw.h(170): warning C4305: 'argument': truncation from 'double' to 'const btScalar'
+c:\users\shzhao\desktop\bge-master\dependencies\bullet3\src\LinearMath/btIDebugDraw.h(171): warning C4305: 'argument': truncation from 'double' to 'const btScalar'
+c:\users\shzhao\desktop\bge-master\bge\Utils.h(17): fatal error C1083: Cannot open include file: 'Leap.h': No such file or directory
+  PhysicsCamera.cpp
+c:\users\shzhao\desktop\bge-master\dependencies\bullet3\src\LinearMath/btIDebugDraw.h(169): warning C4305: 'argument': truncation from 'double' to 'const btScalar'
+c:\users\shzhao\desktop\bge-master\dependencies\bullet3\src\LinearMath/btIDebugDraw.h(170): warning C4305: 'argument': truncation from 'double' to 'const btScalar'
+c:\users\shzhao\desktop\bge-master\dependencies\bullet3\src\LinearMath/btIDebugDraw.h(171): warning C4305: 'argument': truncation from 'double' to 'const btScalar'
+c:\users\shzhao\desktop\bge-master\bge\Utils.h(17): fatal error C1083: Cannot open include file: 'Leap.h': No such file or directory
+  PhysicsFactory.cpp
+c:\users\shzhao\desktop\bge-master\dependencies\bullet3\src\LinearMath/btIDebugDraw.h(169): warning C4305: 'argument': truncation from 'double' to 'const btScalar'
+c:\users\shzhao\desktop\bge-master\dependencies\bullet3\src\LinearMath/btIDebugDraw.h(170): warning C4305: 'argument': truncation from 'double' to 'const btScalar'
+c:\users\shzhao\desktop\bge-master\dependencies\bullet3\src\LinearMath/btIDebugDraw.h(171): warning C4305: 'argument': truncation from 'double' to 'const btScalar'
+c:\users\shzhao\desktop\bge-master\bge\Utils.h(17): fatal error C1083: Cannot open include file: 'Leap.h': No such file or directory
+  PhysicsGame1.cpp
+c:\users\shzhao\desktop\bge-master\dependencies\bullet3\src\LinearMath/btIDebugDraw.h(169): warning C4305: 'argument': truncation from 'double' to 'const btScalar'
+c:\users\shzhao\desktop\bge-master\dependencies\bullet3\src\LinearMath/btIDebugDraw.h(170): warning C4305: 'argument': truncation from 'double' to 'const btScalar'
+c:\users\shzhao\desktop\bge-master\dependencies\bullet3\src\LinearMath/btIDebugDraw.h(171): warning C4305: 'argument': truncation from 'double' to 'const btScalar'
+c:\users\shzhao\desktop\bge-master\bge\Utils.h(17): fatal error C1083: Cannot open include file: 'Leap.h': No such file or directory
+  PhysicsController.cpp
+c:\users\shzhao\desktop\bge-master\dependencies\bullet3\src\LinearMath/btIDebugDraw.h(169): warning C4305: 'argument': truncation from 'double' to 'const btScalar'
+c:\users\shzhao\desktop\bge-master\dependencies\bullet3\src\LinearMath/btIDebugDraw.h(170): warning C4305: 'argument': truncation from 'double' to 'const btScalar'
+c:\users\shzhao\desktop\bge-master\dependencies\bullet3\src\LinearMath/btIDebugDraw.h(171): warning C4305: 'argument': truncation from 'double' to 'const btScalar'
+c:\users\shzhao\desktop\bge-master\bge\Utils.h(17): fatal error C1083: Cannot open include file: 'Leap.h': No such file or directory
+  RiftController.cpp
+c:\users\shzhao\desktop\bge-master\dependencies\bullet3\src\LinearMath/btIDebugDraw.h(169): warning C4305: 'argument': truncation from 'double' to 'const btScalar'
+c:\users\shzhao\desktop\bge-master\dependencies\bullet3\src\LinearMath/btIDebugDraw.h(170): warning C4305: 'argument': truncation from 'double' to 'const btScalar'
+c:\users\shzhao\desktop\bge-master\dependencies\bullet3\src\LinearMath/btIDebugDraw.h(171): warning C4305: 'argument': truncation from 'double' to 'const btScalar'
+c:\users\shzhao\desktop\bge-master\bge\Utils.h(17): fatal error C1083: Cannot open include file: 'Leap.h': No such file or directory
+  SoundSystem.cpp
+c:\users\shzhao\desktop\bge-master\dependencies\bullet3\src\LinearMath/btIDebugDraw.h(169): warning C4305: 'argument': truncation from 'double' to 'const btScalar'
+c:\users\shzhao\desktop\bge-master\dependencies\bullet3\src\LinearMath/btIDebugDraw.h(170): warning C4305: 'argument': truncation from 'double' to 'const btScalar'
+c:\users\shzhao\desktop\bge-master\dependencies\bullet3\src\LinearMath/btIDebugDraw.h(171): warning C4305: 'argument': truncation from 'double' to 'const btScalar'
+c:\users\shzhao\desktop\bge-master\bge\Utils.h(17): fatal error C1083: Cannot open include file: 'Leap.h': No such file or directory
+  Steerable3DController.cpp
+c:\users\shzhao\desktop\bge-master\dependencies\bullet3\src\LinearMath/btIDebugDraw.h(169): warning C4305: 'argument': truncation from 'double' to 'const btScalar'
+c:\users\shzhao\desktop\bge-master\dependencies\bullet3\src\LinearMath/btIDebugDraw.h(170): warning C4305: 'argument': truncation from 'double' to 'const btScalar'
+c:\users\shzhao\desktop\bge-master\dependencies\bullet3\src\LinearMath/btIDebugDraw.h(171): warning C4305: 'argument': truncation from 'double' to 'const btScalar'
+c:\users\shzhao\desktop\bge-master\bge\Utils.h(17): fatal error C1083: Cannot open include file: 'Leap.h': No such file or directory
+  Sphere.cpp
+c:\users\shzhao\desktop\bge-master\dependencies\bullet3\src\LinearMath/btIDebugDraw.h(169): warning C4305: 'argument': truncation from 'double' to 'const btScalar'
+c:\users\shzhao\desktop\bge-master\dependencies\bullet3\src\LinearMath/btIDebugDraw.h(170): warning C4305: 'argument': truncation from 'double' to 'const btScalar'
+c:\users\shzhao\desktop\bge-master\dependencies\bullet3\src\LinearMath/btIDebugDraw.h(171): warning C4305: 'argument': truncation from 'double' to 'const btScalar'
+  SteeringControler.cpp
+c:\users\shzhao\desktop\bge-master\dependencies\bullet3\src\LinearMath/btIDebugDraw.h(169): warning C4305: 'argument': truncation from 'double' to 'const btScalar'
+c:\users\shzhao\desktop\bge-master\dependencies\bullet3\src\LinearMath/btIDebugDraw.h(170): warning C4305: 'argument': truncation from 'double' to 'const btScalar'
+c:\users\shzhao\desktop\bge-master\dependencies\bullet3\src\LinearMath/btIDebugDraw.h(171): warning C4305: 'argument': truncation from 'double' to 'const btScalar'
+c:\users\shzhao\desktop\bge-master\bge\Utils.h(17): fatal error C1083: Cannot open include file: 'Leap.h': No such file or directory
+  TexturedCube.cpp
+c:\users\shzhao\desktop\bge-master\dependencies\bullet3\src\LinearMath/btIDebugDraw.h(169): warning C4305: 'argument': truncation from 'double' to 'const btScalar'
+c:\users\shzhao\desktop\bge-master\dependencies\bullet3\src\LinearMath/btIDebugDraw.h(170): warning C4305: 'argument': truncation from 'double' to 'const btScalar'
+c:\users\shzhao\desktop\bge-master\dependencies\bullet3\src\LinearMath/btIDebugDraw.h(171): warning C4305: 'argument': truncation from 'double' to 'const btScalar'
+  TriangleTest.cpp
+c:\users\shzhao\desktop\bge-master\dependencies\bullet3\src\LinearMath/btIDebugDraw.h(169): warning C4305: 'argument': truncation from 'double' to 'const btScalar'
+c:\users\shzhao\desktop\bge-master\dependencies\bullet3\src\LinearMath/btIDebugDraw.h(170): warning C4305: 'argument': truncation from 'double' to 'const btScalar'
+c:\users\shzhao\desktop\bge-master\dependencies\bullet3\src\LinearMath/btIDebugDraw.h(171): warning C4305: 'argument': truncation from 'double' to 'const btScalar'
+  VectorDrawer.cpp
+c:\users\shzhao\desktop\bge-master\dependencies\bullet3\src\LinearMath/btIDebugDraw.h(169): warning C4305: 'argument': truncation from 'double' to 'const btScalar'
+c:\users\shzhao\desktop\bge-master\dependencies\bullet3\src\LinearMath/btIDebugDraw.h(170): warning C4305: 'argument': truncation from 'double' to 'const btScalar'
+c:\users\shzhao\desktop\bge-master\dependencies\bullet3\src\LinearMath/btIDebugDraw.h(171): warning C4305: 'argument': truncation from 'double' to 'const btScalar'
+VectorDrawer.cpp(48): warning C4018: '<': signed/unsigned mismatch
+  VRGame2.cpp
+c:\users\shzhao\desktop\bge-master\dependencies\bullet3\src\LinearMath/btIDebugDraw.h(169): warning C4305: 'argument': truncation from 'double' to 'const btScalar'
+c:\users\shzhao\desktop\bge-master\dependencies\bullet3\src\LinearMath/btIDebugDraw.h(170): warning C4305: 'argument': truncation from 'double' to 'const btScalar'
+c:\users\shzhao\desktop\bge-master\dependencies\bullet3\src\LinearMath/btIDebugDraw.h(171): warning C4305: 'argument': truncation from 'double' to 'const btScalar'
+c:\users\shzhao\desktop\bge-master\bge\LeapHands.h(3): fatal error C1083: Cannot open include file: 'Leap.h': No such file or directory
+  XBoxController.cpp
+c:\users\shzhao\desktop\bge-master\dependencies\bullet3\src\LinearMath/btIDebugDraw.h(169): warning C4305: 'argument': truncation from 'double' to 'const btScalar'
+c:\users\shzhao\desktop\bge-master\dependencies\bullet3\src\LinearMath/btIDebugDraw.h(170): warning C4305: 'argument': truncation from 'double' to 'const btScalar'
+c:\users\shzhao\desktop\bge-master\dependencies\bullet3\src\LinearMath/btIDebugDraw.h(171): warning C4305: 'argument': truncation from 'double' to 'const btScalar'
+c:\users\shzhao\desktop\bge-master\bge\Utils.h(17): fatal error C1083: Cannot open include file: 'Leap.h': No such file or directory
