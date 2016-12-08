@@ -107,6 +107,8 @@
     <ClCompile Include="FlockingScenario.cpp" />
     <ClCompile Include="FountainEffect.cpp" />
     <ClCompile Include="GravityController.cpp" />
+    <ClCompile Include="Horse.cpp" />
+    <ClCompile Include="HorseFactory.cpp" />
     <ClCompile Include="IdleState.cpp" />
     <ClCompile Include="KinectAudioStream.cpp" />
     <ClCompile Include="Lab3.cpp" />
@@ -174,6 +176,8 @@
     <ClInclude Include="FlockingScenario.h" />
     <ClInclude Include="FountainEffect.h" />
     <ClInclude Include="GravityController.h" />
+    <ClInclude Include="Horse.h" />
+    <ClInclude Include="HorseFactory.h" />
     <ClInclude Include="IdleState.h" />
     <ClInclude Include="KinectAudioStream.h" />
     <ClInclude Include="Lab3.h" />

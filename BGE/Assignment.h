@@ -34,7 +34,7 @@ namespace BGE {
 		const float speed = 40.0f;
 		const float turnRate = 200.0f;
 		
-		const glm::vec3 grivity = glm::vec3(0, -100.0f, 0);
+		const glm::vec3 grivity = glm::vec3(0, -200.0f, 0);
 
 		btTransform mallet1_box_trans;
 		btTransform mallet1_cylinder_trans;

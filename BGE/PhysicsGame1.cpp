@@ -37,12 +37,12 @@ bool PhysicsGame1::Initialise()
 	shared_ptr<PhysicsController> vehicle = physicsFactory->CreateVehicle(glm::vec3(20, 20, 20));
 
 	//create wall
-	physicsFactory->CreateWall(glm::vec3(0, 0, 0), 10, 2);
+	//physicsFactory->CreateWall(glm::vec3(0, 0, 0), 10, 2);
 
 	//set gravity
 	dynamicsWorld->setGravity(btVector3(0, -9.8, 0));
 
-	/*shared_ptr<PhysicsController> box1 = physicsFactory->CreateBox(1,1,4, glm::vec3(5, 5, 0), glm::quat()); 
+	shared_ptr<PhysicsController> box1 = physicsFactory->CreateBox(1,1,4, glm::vec3(5, 5, 0), glm::quat()); 
 	shared_ptr<PhysicsController> box2 = physicsFactory->CreateBox(1,1,4, glm::vec3(5, 5, 5), glm::quat()); 
 
 	// A hinge
@@ -75,7 +75,7 @@ bool PhysicsGame1::Initialise()
 	box2Transform.setRotation(GLToBtQuat(glm::angleAxis(90.0f, glm::vec3(0,1,0))));
 	
 	btSliderConstraint * slider = new btSliderConstraint(*box1->rigidBody, *box2->rigidBody, box1Transform, box2Transform, true);
-	dynamicsWorld->addConstraint(slider);*/
+	dynamicsWorld->addConstraint(slider);
 
 	if (!Game::Initialise()) {
 		return false;

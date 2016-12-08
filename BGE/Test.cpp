@@ -6,25 +6,29 @@ using namespace BGE;
 
 Test::Test(void)
 {
-	;
+	theta = 0;
 }
 
 bool Test::Initialise()
 {
+	horseFactory = make_shared<HorseFactory>(dynamicsWorld);
+
 	physicsFactory->CreateGroundPhysics();
-	dynamicsWorld->setGravity(GLToBtVector(glm::vec3(0, -9.8f, 0)));
+	dynamicsWorld->setGravity(GLToBtVector(gravity));
 
-	box = physicsFactory->CreateBox(5.0f, 5.0f, 5.0f, glm::vec3(0, 2.5f, 0), glm::quat(), true, true);
-	box->Attach(make_shared<VectorDrawer>());
+	horse = horseFactory->CreateHorse(glm::vec3(0, 0, 0), glm::angleAxis(-90.0f, glm::vec3(1.0f, 0.0f, 0.0f)));
 
-	box->motionState->setWorldTransform(btTransform(GLToBtQuat(glm::normalize(box->transform->orientation * glm::angleAxis(- 90.0f, box->transform->up))), GLToBtVector(box->transform->position)));
+	//cylinder = physicsFactory->CreateCylinder(5.0f, 2.0f, glm::vec3(0, 0, 0), glm::quat(), false, true);
 
-	physicsFactory->CreateWall(glm::vec3(50.0f, 0, 0.0f), 30.0f, 5.0f, 5.0f, 5.0f, 5.0f);
+	physicsFactory->CreateWall(glm::vec3(-50.0f, 0, -20.0f), 20.0f, 3.0f, 5.0f, 5.0f, 5.0f);
+
 
 	Game::Initialise();
 
-	//camera->transform->position = glm::vec3(-20.0f, 20.0f, 0);
+	//camera->transform->position = glm::vec3(-100.0f, 20.0f, 0);
 	//camera->transform->Yaw(-90.0f);
+
+	//physicsFactory->CreateCameraPhysics();
 
 	UpdateCamera();
 
@@ -37,30 +41,73 @@ void Test::Update(float timeDelta)
 	
 	if (keyState[SDL_SCANCODE_UP])
 	{
-		box->motionState->setWorldTransform(btTransform(GLToBtQuat(box->transform->orientation), GLToBtVector(box->transform->position + timeDelta * box->transform->look * 10.0f)));
+		horse->push();
 	}
 
 	if (keyState[SDL_SCANCODE_DOWN])
 	{
-		box->motionState->setWorldTransform(btTransform(GLToBtQuat(box->transform->orientation), GLToBtVector(box->transform->position - timeDelta * box->transform->look * 10.0f)));
+		horse->pull();
 	}
 
 	if (keyState[SDL_SCANCODE_LEFT])
 	{
-		box->motionState->setWorldTransform(btTransform(GLToBtQuat(glm::normalize(box->transform->orientation * glm::angleAxis(timeDelta * 100.0f, box->transform->up))), GLToBtVector(box->transform->position)));
+		horse->getBody()->rigidBody->applyTorque(GLToBtVector(horse->getBody()->transform->look * -10000.0f));;
 	}
 
 	if (keyState[SDL_SCANCODE_RIGHT])
 	{
-		box->motionState->setWorldTransform(btTransform(GLToBtQuat(glm::normalize(box->transform->orientation * glm::angleAxis(-timeDelta * 100.0f, box->transform->up))), GLToBtVector(box->transform->position)));
+		horse->getBody()->rigidBody->applyTorque(GLToBtVector(horse->getBody()->transform->look * 10000.0f));;
 	}
 
-	UpdateCamera();
+	if (keyState[SDL_SCANCODE_SPACE])
+	{
+		horse->getBody()->rigidBody->applyForce(GLToBtVector(glm::vec3(0.0f, 1.0f, 0.0f) * 10000.0f), GLToBtVector(glm::vec3(0, 5.0f, 0)));
+	}
+
+	if (keyState[SDL_SCANCODE_PAGEUP])
+	{
+		horse->rotateLeft();
+	}
+
+	if (keyState[SDL_SCANCODE_PAGEDOWN])
+	{
+		horse->rotateRight();
+	}
+
+	if (keyState[SDL_SCANCODE_R]) {
+		isWalk = true;
+	}
+
+	if (keyState[SDL_SCANCODE_P]) {
+		isWalk = false;
+	}
+
+	if (isWalk) {
+		theta += timeDelta * 5;
+		horse->Walk(theta);
+		horse->getBody()->rigidBody->applyForce(GLToBtVector(horse->getBody()->transform->up * 2000.0f), GLToBtVector(glm::vec3(0, 0, 0)));
+
+		if (glm::sin(theta) > 0) {
+			horse->pull();
+		}
+
+		else if (glm::sin(theta) < 0) {
+			//horse->push();
+		}
+	}
+
+
+	//box->rigidBody->applyForce(GLToBtVector(box_force), btVector3(0.0f, 0.0f, 0.0f));
+
+	//cylinder->rigidBody->applyTorque(GLToBtVector(cylinder->transform->up * 100.0f));
+
+	//UpdateCamera();
 
 	Game::Update(timeDelta);
+
 }
 
 void Test::UpdateCamera() {
-	camera->transform->position = box->transform->position + box->transform->look * (-20.0f) + glm::vec3(0, 5.0f, 0);
-	camera->transform->orientation = box->transform->orientation;
+	camera->transform->position = horse->getBody()->transform->position + horse->getBody()->transform->look * (-80.0f) + glm::vec3(0, 5.0f, 0);
+	camera->transform->orientation = horse->getBody()->transform->orientation;
 }

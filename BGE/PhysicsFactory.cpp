@@ -10,6 +10,7 @@
 #include "dirent.h"
 #include "Utils.h"
 #include "Capsule.h"
+
 using namespace BGE;
 
 const float standardMass = 10.0f;
